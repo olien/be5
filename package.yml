@@ -12,3 +12,6 @@ page:
     subpages:
         uebersicht: { title: 'Übersicht' }
         info: { title: 'Info' }
+
+requires:
+    redaxo: '>=5.1.0'
